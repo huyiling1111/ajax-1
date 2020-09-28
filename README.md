@@ -1,2 +1,3 @@
-#  使用方法 yarn global add node-dev
+#  使用方法 
+yarn global add node-dev
  node-dev server.js
