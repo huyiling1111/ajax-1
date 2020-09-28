@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "global": "^4.4.0",
+    "node-dev": "^5.0.0"
+  }
+}
