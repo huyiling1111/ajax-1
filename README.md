@@ -1,1 +1,2 @@
-#  练习ajax:实现ajax加载js，css，html，xml
+#  使用方法 yarn global add node-dev
+ node-dev server.js
